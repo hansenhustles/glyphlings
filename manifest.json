@@ -1,0 +1,13 @@
+{
+  "name": "Glyphlings: Legends of Numeria",
+  "short_name": "Glyphlings",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#2B2140",
+  "theme_color": "#2B2140",
+  "icons": [
+    { "src": "assets/brand/icon_192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/brand/icon_512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
